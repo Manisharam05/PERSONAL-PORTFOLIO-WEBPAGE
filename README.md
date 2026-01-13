@@ -27,4 +27,5 @@ Google Fonts (Roboto) – for modern typography
 Overall, this website is a static, responsive portfolio site ideal for presenting a developer’s profile and projects in a professional manner.
 
 #OUTPUT
+
 ![Image](https://github.com/user-attachments/assets/eb75e5e0-47f9-4cf4-a1f0-782867492bdd)
